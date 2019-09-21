@@ -6,7 +6,7 @@ describe 'new post' do
     expect(page.status_code).to eq(200)
   end
 
-  it 'renders HTML' in the /new template' do
-    
+  it "renders HTML' in the /new template" do
+
   end
 end
