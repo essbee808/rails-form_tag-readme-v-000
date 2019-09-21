@@ -7,6 +7,6 @@ describe 'new post' do
   end
 
   it "renders HTML' in the /new template" do
-
+    
   end
 end
